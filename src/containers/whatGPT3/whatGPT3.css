@@ -71,7 +71,7 @@
 }
 
 /* Customizing feature component as per needs */
-.gpt3__whatgpt3-container .gpt3__features-container-feature {
+.gpt3__whatgpt3-container .gpt3__features-container__feature {
     flex: 1;
     margin: 1rem;
     min-width: 210px;
